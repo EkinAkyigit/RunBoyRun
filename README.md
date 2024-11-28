@@ -1,2 +1,2 @@
 # RunBoyRun
-A simple 3D runner game
+A simple 3D runner game for mobile
