@@ -3326,7 +3326,7 @@ MonoBehaviour:
   maxScore: 6
   anim: {fileID: 0}
   Player: {fileID: 1030821475}
-  finish: {fileID: 0}
+  finish: {fileID: 2025074508}
 --- !u!1001 &1032636216
 PrefabInstance:
   m_ObjectHideFlags: 0
